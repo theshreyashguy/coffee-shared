@@ -10,7 +10,7 @@ export interface IAuthPayload {
   id: number;
   username: string;
   email: string;
-  iat?: number;
+  phone: string;
 }
 
 export interface IAuth {
