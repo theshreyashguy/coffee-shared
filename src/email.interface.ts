@@ -26,4 +26,5 @@ export interface IEmailLocals {
   verifyLink?: string;
   resetLink?: string;
   otp?: string;
+  token?:string;
 }

@@ -5,3 +5,4 @@ dist
 build
 secret.md
 package-lock.json
+.npmrc
